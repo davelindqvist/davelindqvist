@@ -14,10 +14,13 @@
 
 
 <h2>🌱 I’m currently learning ...</h2>
+<p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="firebase" width="25" height="25" />
+</p>
 
 <h2>🚀 Some Tools I Use</h2>
+<p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/
 ruby-original-wordmark.svg " alt="ruby" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/
@@ -30,6 +33,7 @@ docker-original-wordmark.svg " alt="docker" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/
 jquery-original-wordmark.svg " alt="jquery" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="heroku" width="25" height="25" />
+</p>
 
 ---
 <br>

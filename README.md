@@ -1,5 +1,5 @@
-<h2>Howdy 👋, I'm <a href="https://dqveha.github.io/portfolio_2021/">Dave</a>! (Pronouns: He/Him)</h2>
-<p align="left">I'm a pharmacist with an urge to revitalize everyday processes through programming. I am currently in a full-stack program with <strong><a href="https://www.epicodus.com/">Epicodus</a></strong> to specialize in Ruby/Rails, and hope that I can translate these skills towards creating strong and robust code, data analytics, or anything else that would make a direct or indirect positive impact to humanity!</p>
+<h2>Howdy 👋</h2>
+<p align="left">I'm a pharmacist with an urge to revitalize everyday processes through programming.</p>
 
 <a href="https://www.netflix.com/title/70258489"><img align="right" style="margin-left: 1rem; border: 1px solid black; " src="https://64.media.tumblr.com/0b789ca052b8937be1f4262f7e5b45db/tumblr_mtdxsz8fI71qiefi8o1_1280.jpg" width="325px"/></a>
 
@@ -15,8 +15,9 @@
 
 <h2>🌱 I’m currently learning ...</h2>
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="firebase" width="25" height="25" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="25" height="25" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" alt="django" width="25" height="25" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="amazon web services" width="25" height="25" />
 </p>
 
 <h2>🚀 Some Tools I Use</h2>

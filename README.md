@@ -1,5 +1,5 @@
 <h2>Howdy 👋</h2>
-<p align="left">I'm a pharmacist with an urge to revitalize everyday processes through programming.</p>
+<p align="left">Just a pharmacist with an urge to revitalize everyday processes through programming. Thanks for noticing me! 😊</p>
 
 <a href="https://www.netflix.com/title/70258489"><img align="right" style="margin-left: 1rem; border: 1px solid black; " src="https://64.media.tumblr.com/0b789ca052b8937be1f4262f7e5b45db/tumblr_mtdxsz8fI71qiefi8o1_1280.jpg" width="325px"/></a>
 

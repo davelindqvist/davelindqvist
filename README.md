@@ -7,7 +7,7 @@
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
   <li><a href="https://www.netflix.com/title/70258489">Derek</a> is one of my favorite show →</li>
-  <li>Hitchhiked some of the way when I solo traveled from California to Oregon</li>
+  <li>Hitchhiked part of my way through solo traveling from California to Oregon</li>
   <li>Had my 15 seconds of fame in the news @ <a href="https://www.kgw.com/article/news/thief-ransacks-portland-womans-home-while-shes-at-funeral/283-532714967">1:00</a> (Don't worry, I wasn't the thief)</li>
 </ul>
 

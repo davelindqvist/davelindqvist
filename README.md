@@ -12,9 +12,3 @@
 </ul>
 
 </p>
-
----
-<br>
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=davelindqvist&hide=stars&show_icons=true&theme=onedark" alt="Dave Lindqvist's Github stats">
-</div>
